@@ -1,17 +1,8 @@
 Fuck Securly, this is a beta version. The main point of this is to allow for the embedded access to games during school. This is unbockable, and as a result an OP fix. 
 
-For ROMS: use this link:
-
 
 
 -Will
-
-
-
-
-
-
-
 
 
 
