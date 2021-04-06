@@ -8,9 +8,7 @@ Fuck Securly, this is a beta version. The main point of this is to allow for the
 
 
 
-
-
-
+(Also I wrote Beta 1 in a 40 minute study hall period so if it looks bad in the early release that's why.)
 
 
 
