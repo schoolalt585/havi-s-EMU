@@ -1,4 +1,4 @@
-Fuck Securly, this is a beta version. The main point of this is to allow for the embedded access to games during school. This is unbockable, and as a result an OP fix. 
+Fuck Securly, this is a beta version. The main point of this is to allow for the embedded access to games during school. This is unbockable, and as a result an OP fix. I will continue updates through the end of senior year (2021) and mostvlikely never touch it again. Feel free to edit my code and give feedback.
 
 
 
